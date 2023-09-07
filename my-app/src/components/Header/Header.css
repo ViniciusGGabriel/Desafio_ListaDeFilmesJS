@@ -1,0 +1,7 @@
+div {
+    color: aliceblue;
+}
+
+.navbar-brand {
+    font-family: var(--font-2);
+}
